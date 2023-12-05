@@ -1,1 +1,1 @@
-<script>alert('remote script executed');</script>
+alert('remote script executed');
